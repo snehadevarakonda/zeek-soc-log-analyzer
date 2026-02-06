@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Bash history / temp
+.bash_history
+
+# Python cache (future-proofing)
+__pycache__/
+*.pyc
+
+# Logs (optional – see note below)
+*.log
